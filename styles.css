@@ -1,0 +1,42 @@
+
+Natuurlijk! Laten we wat basisstijlen toevoegen aan je HTML om het er wat aantrekkelijker uit te laten zien. Hier is een eenvoudige CSS-stijl die je kunt toevoegen aan je "styles.css" bestand:
+
+css
+Copy code
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
